@@ -5,6 +5,7 @@ This project is a machine learning application built to predict the cytopathic e
 
 For more details, visit the [GitHub Repository](https://github.com/suhaasteja/COVID-19-Drug-Discovery).
 
+![Streamlit App Screenshot](streamlit-screenshot.png)
 
 ## Technologies Used
 - **RDKit**: To convert molecular SMILES strings into fingerprints.
