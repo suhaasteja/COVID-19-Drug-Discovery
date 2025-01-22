@@ -1,7 +1,7 @@
 # Cytopathic Effect Prediction App
 
 ## Project Overview
-This project is a machine learning application built to predict the cytopathic effect (i.e., whether a molecule is active or inactive) based on its **SMILES** representation. The machine learning model used is a **RandomForestClassifier**, which has been trained on molecular fingerprint data derived from SMILES strings. The project includes both model training and a user-friendly **Streamlit** app to make predictions on new molecules and visualize the model's performance metrics.
+This project is a machine learning application built to predict the cytopathic effect based on its **SMILES** representation. The machine learning model used is a **RandomForestClassifier**, which has been trained on molecular fingerprint data derived from SMILES strings. The project includes both model training and a user-friendly **Streamlit** app to make predictions on new molecules and visualize the model's performance metrics.
 
 For more details, visit the [GitHub Repository](https://github.com/suhaasteja/COVID-19-Drug-Discovery).
 
